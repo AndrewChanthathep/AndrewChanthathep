@@ -3,7 +3,7 @@ Hello, World! I'm a high school student with a passion for Minecraft Mod Develop
 https://www.youtube.com/@Qndrew
 (200+ Subscribers, 20,000+ views) 🏆
 
-I also have an immense passion for video games and helped Co-Found an online gaming organization back in 2020 with a few online friends, which currently has over 30 members across North America and Europe. We have an organized e-sports team for Minecraft, Valorant, and other video games, and have won hundreds of dollars in prize money through competing and winning various tournaments. 🏆
+I also have an immense passion for video games and helped Co-Found an online gaming organization back in 2020 with a few online friends, which currently has over 30 members across North America and Europe. We have established an organized e-sports team for Minecraft, Valorant, and other video games, and have won hundreds of dollars in prize money through competing and winning various tournaments. 🏆
 
 <!--
 **AndrewChanthathep/AndrewChanthathep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
